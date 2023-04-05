@@ -25,11 +25,6 @@ Skills: Data Analysis / Plotly / Python / Regex / Pandas / Airflow / Docker / Gi
 
 ![Design and Development](https://github.com/AliMassoud/AliMassoud/blob/main/azure-fundamentals-Ali%20Massoud.png) 
 
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ff2d9711-160c-458c-a9ab-b0725ce7f215" data-share-badge-host="https://www.credly.com">
-</div>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
 ### Fun facts
 I am a great cook, like to test few dishes every month from different cultures  
 I am a psychology and cultural differences enthusiast!
