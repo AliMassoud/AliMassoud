@@ -2,7 +2,7 @@
 #### Data Scientist and MLOps Enthusiast  
 ![Profile views](https://gpvc.arturio.dev/AliMassoud)  
 
-I am passionate software engineer, interested in discovering insights from data and using them to solve real-world problems,  
+I am passionate about discovering insights from data and using them to solve real-world problems,  
 constantly curious, eager to learn new techniques and technologies, and driven to find innovative solutions.
 
 ### Skills:   
