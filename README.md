@@ -5,9 +5,9 @@
 I am passionate software engineer, interested in discovering insights from data and using them to solve real-world problems,  
 constantly curious, eager to learn new techniques and technologies, and driven to find innovative solutions.
 
-Skills: 
+### Skills:   
   Software Engineering: C/ Bash/ Ubuntu-User/ Git. 
-  Data Science: Data Analysis / Plotly / Python / Regex / Pandas / Matplotlib / Seaborn. 
+  Data Science: Data Analysis / Plotly / Python / Regex / Pandas / Matplotlib / Seaborn.   
   Cloud & Workflow: YAML / Airflow / Docker / Github Actions / Cloud Architectures / Azure.   
   AWS Cloud: RDS, EC2, S3, ElastiCache, Gateway Load Balancer (GWLB), CI/CD, DynamoDB. 
 
