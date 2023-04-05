@@ -29,7 +29,7 @@ Skills:
 
 ![Design and Development](https://github.com/AliMassoud/AliMassoud/blob/main/azure-fundamentals-Ali%20Massoud.png) 
 
-![Design and Development](https://github.com/AliMassoud/AliMassoud/blob/main/Programming_Competition-%20Ali%20Massoud.pdf) 
+![Design and Development](https://github.com/AliMassoud/AliMassoud/blob/main/Programming_Competition-%20Ali%20Massoud.png) 
 
 ![Design and Development](https://github.com/AliMassoud/AliMassoud/blob/main/azure-fundamentals-Ali%20Massoud.png) 
 
