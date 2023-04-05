@@ -1,37 +1,42 @@
-## Hi there 👋 😃
+### Hi there 👋 😃, It is Ali!
+#### Data Scientist and MLOps Enthusiast  
+![Profile views](https://gpvc.arturio.dev/AliMassoud)  
 
-### Who am I? 🤔
-I am passionate about discovering insights from data and using them to solve real-world problems,  
+I am passionate software engineer, interested in discovering insights from data and using them to solve real-world problems,  
 constantly curious, eager to learn new techniques and technologies, and driven to find innovative solutions.
 
+Skills: Data Analysis / Plotly / Python / Regex / Pandas / Airflow / Docker / Github Actions / AWS / Azure / Cloud Architectures
+
 ### What is my domain of interest?
-- Data Science
-- Machine Learning (ML)
-- MLOps
-- Github Actions
-- MLFlow
-- Micorsoft Azure
+1. Data Science
+2. Machine Learning (ML)
+3. MLOps (Pipelines, Monitoring, and automation)
+4. Github Actions
+5. MLFlow
+6. Micorsoft Azure
 
-### What certifications do I have?
-I have Micosoft Azure Fundamentals certification, I am taking courses on coursera regarding ML  
-in production. I am quite driven by my interest in the field. 👯
+- 🔭 I’m currently working on I am currently working as a Data science consultant, I drive as much value as possible from your data. 
+- 🌱 I’m currently learning I am learning how to orchestrate a ML workflow using Github Actions. 
+- 👯 I’m looking to collaborate on MLOps projects if you are interested! 
+- 💬 Ask me about  ask me about, regression, classification, ML pipelines, ML in production, and workflow orchestration. 
+- 📫 How to reach me: ali.massoud136@gmail.com 
 
-### What do I do? and what to ask me? 🔭
-I am currently working as a Data science consultant, I drive as much value as possible from your data ^_^  
-ask me about, regression, classification, ML pipelines, ML in production, and workflow orchestration.
+### Certification:
 
-### Fun fact
+![Design and Development](https://github.com/AliMassoud/AliMassoud/blob/main/azure-fundamentals-Ali%20Massoud.png) 
+
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ff2d9711-160c-458c-a9ab-b0725ce7f215" data-share-badge-host="https://www.credly.com">
+</div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+### Fun facts
 I am a great cook, like to test few dishes every month from different cultures  
-I am a psychology and culturql differences enthusiast!
+I am a psychology and cultural differences enthusiast!
+One last one, I am a former chess champion ♞ ♖
 
-### How to reach me? 📫
-Email: ali.massoud136@gmail.com
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ali-massoud//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/15540632/ali-massoud)  
 
-<p>
-  <a href="https://www.linkedin.com/in/ali-massoud/" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
-  </a> &nbsp;
-</p>
+<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliMassoud&hide=contribs,prs)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AliMassoud&show_icons=true&count_private=true)  
