@@ -6,13 +6,13 @@ I am passionate software engineer, interested in discovering insights from data 
 constantly curious, eager to learn new techniques and technologies, and driven to find innovative solutions.
 
 Skills: 
-  Software Engineering: C/ Bash/ Ubuntu-User/ Git
-  Data Science: Data Analysis / Plotly / Python / Regex / Pandas
-  Cloud & Workflow: YAML / Airflow / Docker / Github Actions / Cloud Architectures / Azure
-  AWS Cloud: RDS, EC2, S3, ElastiCache, Gateway Load Balancer (GWLB), CI/CD, DynamoDB
+  Software Engineering: C/ Bash/ Ubuntu-User/ Git. 
+  Data Science: Data Analysis / Plotly / Python / Regex / Pandas / Matplotlib / Seaborn. 
+  Cloud & Workflow: YAML / Airflow / Docker / Github Actions / Cloud Architectures / Azure. 
+  AWS Cloud: RDS, EC2, S3, ElastiCache, Gateway Load Balancer (GWLB), CI/CD, DynamoDB. 
 
 ### What is my domain of interest?
-1. Data Science
+1. Data Science (Linear, and Logistic Regression, Decision Tree, K-Means, Hierarchical clustering). 
 2. Machine Learning (ML)
 3. MLOps (Pipelines, Monitoring, and automation)
 4. Github Actions
