@@ -1,16 +1,34 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**AliMassoud/AliMassoud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Who am I? 🤔
+I am passionate about discovering insights from data and using them to solve real-world problems,  
+constantly curious, eager to learn new techniques and technologies, and driven to find innovative solutions.
 
-Here are some ideas to get you started:
+### What is my domain of interest?
+- Data Science
+- Machine Learning (ML)
+- MLOps
+- Github Actions
+- MLFlow
+- Micorsoft Azure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What certifications do I have?
+I have Micosoft Azure Fundamentals certification, I am taking courses on coursera regarding ML  
+in production. I am quite driven by my interest in the field. 👯
+
+### What do I do? and what to ask me? 🔭
+I am currently working as a Data science consultant, I drive as much value as possible from your data ^_^  
+ask me about, regression, classification, ML pipelines, ML in production, and workflow orchestration.
+
+### Fun fact
+I am a great cook, like to test few dishes every month from different cultures  
+I am a psychology and culturql differences enthusiast!
+
+### How to reach me? 📫
+Email: ali.massoud136@gmail.com
+
+<p>
+  <a href="https://www.linkedin.com/in/ali-massoud/" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp;
+</p>
