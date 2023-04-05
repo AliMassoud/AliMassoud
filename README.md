@@ -32,3 +32,4 @@ Email: ali.massoud136@gmail.com
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp;
 </p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliMassoud&hide=contribs,prs)
