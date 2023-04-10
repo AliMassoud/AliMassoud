@@ -30,8 +30,13 @@ I am a great cook, like to test few dishes every month from different cultures
 I am a psychology and cultural differences enthusiast!  
 One last one, I am a former chess champion ♞ ♖
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ali-massoud//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/15540632/ali-massoud)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ali-massoud//) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/15540632/ali-massoud)
   
 ### Certifications:
 
 ![Design and Development](https://github.com/AliMassoud/AliMassoud/blob/main/azure-fundamentals-Ali%20Massoud.png) 
+
+<!-- ### Published Articles:  
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ali.massoud136/0">
+ <img src="https://github-readme-medium-recent-article.vercel.app/medium/@ali.massoud136/0" alt="Recent Article 0">  -->
+
