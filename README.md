@@ -22,7 +22,7 @@ constantly curious, eager to learn new techniques and technologies, and driven t
 - 🔭 I am currently working as a Data science consultant, I drive as much value as possible from your data. 
 - 🌱 I am learning how to orchestrate a ML workflow using Github Actions. 
 - 👯 I’m looking to collaborate on MLOps projects if you are interested! 
-- 💬 Ask me about ask me about, regression, classification, ML pipelines, ML in production, and workflow orchestration. 
+- 💬 ask me about, regression, classification, ML pipelines, ML in production, and workflow orchestration. 
 - 📫 How to reach me: ali.massoud136@gmail.com 
 
 ### Fun facts
