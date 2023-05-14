@@ -11,8 +11,8 @@ constantly curious, eager to learn new techniques and technologies, and driven t
   **Cloud & Workflow:** YAML / Airflow / Docker / Github Actions / Cloud Architectures / Azure.   
   **AWS Cloud:** RDS, EC2, S3, ElastiCache, Gateway Load Balancer (GWLB), CI/CD, DynamoDB. 
 ### Fields of interest:  
-- Marketing
-- Supply Chain
+- Data Science in Marketing.
+- Data Science in Supply Chain.
 
 ### What is my domain of interest?
 1. Data Science (Linear, and Logistic Regression, Decision Tree, K-Means, Hierarchical clustering). 
