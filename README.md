@@ -6,10 +6,13 @@ I am passionate about discovering insights from data and using them to solve rea
 constantly curious, eager to learn new techniques and technologies, and driven to find innovative solutions.
 
 ### Skills:   
-  **Software Engineering:** C / Bash / Ubuntu-User / Git / Regex / Python(Flask).    
-  **Data Science:** Data Analysis / Plotly / Python / Pandas / Matplotlib / Seaborn.   
+  **Software Engineering:** C / Bash / Ubuntu-User / Git / Regex / Python.    
+  **Data Science:** Data Analysis / Plotly / Pandas / Matplotlib / Seaborn.   
   **Cloud & Workflow:** YAML / Airflow / Docker / Github Actions / Cloud Architectures / Azure.   
   **AWS Cloud:** RDS, EC2, S3, ElastiCache, Gateway Load Balancer (GWLB), CI/CD, DynamoDB. 
+### Fields of interest:  
+- Marketing
+- Supply Chain
 
 ### What is my domain of interest?
 1. Data Science (Linear, and Logistic Regression, Decision Tree, K-Means, Hierarchical clustering). 
