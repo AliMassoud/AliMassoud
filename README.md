@@ -15,7 +15,7 @@ constantly curious, eager to learn new techniques and technologies, and driven t
 - Data Science in Supply Chain.
 
 ### What is my domain of interest?
-1. Data Science (Linear, and Logistic Regression, Decision Tree, K-Means, Hierarchical clustering). 
+1. Data Science.
 2. Machine Learning (ML)
 3. MLOps (Pipelines, Monitoring, and automation)
 4. Github Actions
