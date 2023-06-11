@@ -9,7 +9,9 @@ constantly curious, eager to learn new techniques and technologies, and driven t
   **Software Engineering:** C / Bash / Ubuntu-User / Git / Regex / Python.    
   **Data Science:** Data Analysis / Plotly / Pandas / Matplotlib / Seaborn.   
   **Cloud & Workflow:** YAML / Airflow / Docker / Github Actions / Cloud Architectures / Azure.   
-  **AWS Cloud:** RDS, EC2, S3, ElastiCache, Gateway Load Balancer (GWLB), CI/CD, DynamoDB. 
+  **Cloud:**
+   - (AWS): RDS, EC2, S3, ElastiCache, Gateway Load Balancer (GWLB), CI/CD, DynamoDB. 
+   - (Azure): CLI, VM, Files, Container Apps, Functions, ML Studio.  
 ### Fields of interest:  
 - Data Science in Marketing.
 - Data Science in Supply Chain.
@@ -21,6 +23,7 @@ constantly curious, eager to learn new techniques and technologies, and driven t
 4. Github Actions
 5. MLFlow
 6. Micorsoft Azure
+7. Airflow
 
 - 🔭 I am currently working as a Data science consultant, I drive as much value as possible from your data. 
 - 🌱 I am learning how to orchestrate a ML workflow using Github Actions. 
