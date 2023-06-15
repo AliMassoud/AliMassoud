@@ -8,7 +8,7 @@ constantly curious, eager to learn new techniques and technologies, and driven t
 ### Skills:   
   **Software Engineering:** C / Bash / Ubuntu-User / Git / Regex / Python.    
   **Data Science:** Data Analysis / Plotly / Pandas / Matplotlib / Seaborn.   
-  **Cloud & Workflow:** YAML / Airflow / Docker / Github Actions / Cloud Architectures / Azure.   
+  **Workflow:** YAML / Airflow / Docker / Github Actions.
   **Cloud:**
    - (AWS): RDS, EC2, S3, ElastiCache, Gateway Load Balancer (GWLB), CI/CD, DynamoDB. 
    - (Azure): CLI, VM, Files, Container Apps, Functions, ML Studio.  
