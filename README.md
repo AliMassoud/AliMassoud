@@ -8,7 +8,7 @@ constantly curious, eager to learn new techniques and technologies, and driven t
 ### Skills:   
   **Software Engineering:** C / Bash / Ubuntu-User / Git / Regex / Python.    
   **Data Science:** Data Analysis / Plotly / Pandas / Matplotlib / Seaborn.   
-  **Workflow:** YAML / Airflow / Docker / Github Actions.
+  **Workflow:** YAML / Airflow / Docker / Github Actions.  
   **Cloud:**
    - (AWS): RDS, EC2, S3, ElastiCache, Gateway Load Balancer (GWLB), CI/CD, DynamoDB. 
    - (Azure): CLI, VM, Files, Container Apps, Functions, ML Studio.  
@@ -26,7 +26,7 @@ constantly curious, eager to learn new techniques and technologies, and driven t
 7. Airflow
 
 - 🔭 I am currently working as a Data science consultant, I drive as much value as possible from your data. 
-- 🌱 I am learning how to orchestrate a ML workflow using Github Actions. 
+- 🌱 I am learning how to orchestrate a ML workflow using Github Actions and Airflow. 
 - 👯 I’m looking to collaborate on MLOps projects if you are interested! 
 - 💬 ask me about, regression, classification, ML pipelines, ML in production, and workflow orchestration. 
 - 📫 How to reach me: ali.massoud136@gmail.com 
