@@ -12,9 +12,6 @@ constantly curious, eager to learn new techniques and technologies, and driven t
   **Cloud:**
    - (AWS): RDS, EC2, S3, ElastiCache, Gateway Load Balancer (GWLB), CI/CD, DynamoDB. 
    - (Azure): CLI, VM, Files, Container Apps, Functions, ML Studio.  
-### Fields of interest using Data Science:  
-- Marketing.
-- Supply Chain.
 
 ### What is my domain of interest?
 1. Data Science.
